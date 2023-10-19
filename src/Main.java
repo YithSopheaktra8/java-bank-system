@@ -18,8 +18,5 @@ public class Main {
 
         bankATM.plugInCard(card);
         bankATM.doDeposit();
-
-
-
     }
 }
